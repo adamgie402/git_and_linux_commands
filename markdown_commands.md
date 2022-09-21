@@ -18,6 +18,17 @@ paragraph text
   * third b
   * third c
 
+### unordered list
+- item 1
+- item 2
+  - subitem a
+  - subitem b
+- item 3
+
+An horizontal line (leave one blank line before and after dashes):
+
+---
+
 This is an code block example:
 
 `this is code block:
@@ -33,7 +44,7 @@ Code block with multiple lines:
 }
 ```
   
-An horizontal line (leave one blank line before and after dashes)
+
   
 ---
  
@@ -51,6 +62,20 @@ paragraph text
 | one | two | three |
 | one | two | three |
 | jeden | dwa | trzy |
+
+### Task list
+
+- [ ] task one
+- [x] task two
+- [ ] task three
+
+Superscript: 
+x^2^
+
+Subscript:
+H~2~0
+
+
  
 
  
